@@ -16,7 +16,7 @@ Each project is organized into a dedicated branch, allowing for modular developm
 
 ## 🔖 License
 
-This project is licensed under the **MIT** license. You are free to use, modify, and redistribute this code, but only within **open-source** projects.
+This project is licensed under the **apache 2.0** license. You are free to use, modify, and redistribute this code, but only within **open-source** projects.
 
 ## ⚠️ Attribution Request (Not Mandatory)
 
