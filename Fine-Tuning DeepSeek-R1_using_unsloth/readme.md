@@ -30,13 +30,13 @@ Project_AI/ │── fine-tuning DeepSeek-R1_using_unsloth/ │ ├── Fine-
 ```bash
 git clone https://github.com/MoulayeSDh/Project_AI/Project_AI/fine-tuning DeepSeek-R1_using_unsloth.git
 cd Project_AI/fine-tuning DeepSeek-R1_using_unsloth/
-
+```
 2️⃣ Install Dependencies
-
+```
 pip install --upgrade --no-cache-dir --no-deps 
 git+https://github.com/unslothai/unsloth.git
 pip install datasets transformers accelerate torch
-
+```
 
 ---
 
@@ -45,9 +45,9 @@ pip install datasets transformers accelerate torch
 1️⃣ Fine-Tune the Model
 
 Run the following command to fine-tune DeepSeek-R1:
-
+```
 python Fine-Tuning DeepSeek-R1-Distill-Llama_using_unsloth.ipynb 
-
+```
 By default, the fine-tuned model will be saved in models/fine_tuned_deepseek/.
 
 
@@ -58,7 +58,7 @@ By default, the fine-tuned model will be saved in models/fine_tuned_deepseek/.
 After training, you can load and test the fine-tuned model:
 
 from transformers import AutoModelForCausalLM, AutoTokenizer
-
+```
 # Load the fine-tuned model
 model = AutoModelForCausalLM.from_pretrained("models/fine_tuned_deepseek")
 tokenizer = AutoTokenizer.from_pretrained("models/fine_tuned_deepseek")
@@ -70,7 +70,7 @@ output = model.generate(**inputs)
 
 # Print result
 print(tokenizer.decode(output[0], skip_special_tokens=True))
-
+```
 
 ---
 
@@ -99,17 +99,9 @@ Contributions are welcome!
 How to Contribute:
 
 1. Fork the repository and create a new branch (feature-improvement or fix-bug).
-
-
 2. Submit a pull request with clear explanations of changes.
-
-
 3. Ensure your code follows best practices and passes all tests.
-
-
-
 If you find a bug or have a feature request, open an issue.
-
 
 ---
 
