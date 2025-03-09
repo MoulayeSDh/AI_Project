@@ -38,14 +38,14 @@ Soon a fully modular version will be available
 ## 🔧 Installation & Setup
 
 ### 1️⃣ Install Dependencies
-```bash
+```
 pip install ultralytics pytesseract qdrant-client transformers langchain crawl4ai
 sudo apt-get install tesseract-ocr
-
+```
 2️⃣ Run the AI Pipeline
-
+```
 python agentic_ocr_ai.py
-
+```
 Modify image_path inside agentic_ocr_ai.py to test with different images.
 
 
