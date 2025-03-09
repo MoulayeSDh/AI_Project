@@ -20,7 +20,7 @@ This project is licensed under the **apache 2.0** license. You are free to use, 
 
 ## ⚠️ Attribution Request (Not Mandatory)
 
-Although the code is freely available under the MIT license, it is **greatly appreciated** if you include a mention of my name (**Moulaye**) in the credits or documentation when creating a project based on this work.
+Although the code is freely available under the apache 2.0 license, it is **greatly appreciated** if you include a mention of my name (**Moulaye**) in the credits or documentation when creating a project based on this work.
 
 This helps recognize the effort put into this repository and supports the open-source community.
 
