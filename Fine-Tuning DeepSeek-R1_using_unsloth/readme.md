@@ -1,6 +1,3 @@
-
----
-
 # 🦾 Fine-Tuning DeepSeek-R1 with Unsloth & Hugging Face Dataset  
 
 🚀 **Fine-tune DeepSeek-R1 with LoRA & Unsloth in a memory-efficient way.**  
@@ -135,6 +132,8 @@ This project is fully open-source but protected from commercial exploitation.
 If someone wants to use this work for profit, they must request permission first.
 
 > AI should be accessible to all, not exploited for financial gain.
+
+
 
 
 
