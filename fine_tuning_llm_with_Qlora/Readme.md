@@ -52,7 +52,7 @@ Notes
     The instruction-tuning approach improves model performance by structuring unstructured data.
     Modify LoraConfig parameters to experiment with different training configurations.
 
-📜 ##License - Apache 2.0
+📜 ## License - Apache 2.0
 
 This project is released under the Apache 2.0 License.
 Terms of Use
