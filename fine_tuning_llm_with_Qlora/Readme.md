@@ -1,4 +1,3 @@
-
 # QLoRA Fine-Tuning for DeepSeek-7B
 
 This project fine-tunes the DeepSeek-7B model using QLoRA (Quantized LoRA), optimizing large language models for lower memory consumption while maintaining high performance. The script follows a structured pipeline: data extraction from PDFs, text cleaning, instruction generation using T5-Small, and QLoRA fine-tuning. The final fine-tuned model is tested for inference to validate its responses.
@@ -37,14 +36,14 @@ Output
     Training logs in ./logs/
     Generated structured dataset in fine_tuning_data.jsonl
 
-##Example Inference
+## Example Inference
 
 After fine-tuning, test the model using:
-
+`````
 test_prompt = "What are the symptoms of diabetes?"
 response = generate_response(test_prompt)
 print(response)
-
+``````
 This verifies whether the model correctly generates coherent responses after fine-tuning.
 Notes
 
@@ -52,12 +51,13 @@ Notes
     The instruction-tuning approach improves model performance by structuring unstructured data.
     Modify LoraConfig parameters to experiment with different training configurations.
 
-📜 ## License - Apache 2.0
+  ## license - Apache 2.0
 
 This project is released under the Apache 2.0 License.
 Terms of Use
 
 ✅ Attribution Required → You must credit the original author, Moulaye Sidi Dahi, in all uses of this code.
+
 ❌ Non-Commercial Use Only → The project cannot be used for profit-oriented purposes.
 🔗 Redistribution Rules → Any derivative work must include this license & author attribution.
 🔒 Intellectual Property Protection
