@@ -6,8 +6,9 @@ Installation
 
 Ensure Python 3.8+ is installed, then run:
 
+`````
 pip install torch transformers accelerate bitsandbytes peft datasets sentencepiece llama-index pypdf nltk
-
+`````
 This will install all necessary dependencies for model training and data processing.
 Workflow
 
