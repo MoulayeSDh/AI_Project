@@ -71,6 +71,7 @@ balancer.evaluate_distribution(balanced_df, target_col="Target")
 - Adding **WGAN-GP with spectral normalization** for even better training stability.
 - Implementing **conditional GANs (cGANs)** for multi-class generation.
 - Supporting **image data augmentation** for computer vision tasks.
+  
   _**to keep informed, follow me on Linkedin**_
 
 ## 📜 License
