@@ -1,7 +1,7 @@
 # DataBalancerWGAN - Balance Your Dataset with GANs
 
-![GitHub Repo stars](https://img.shields.io/github/stars/moulaye-sidi-dahi/DataBalancerWGAN?style=social)
-![GitHub forks](https://img.shields.io/github/forks/moulaye-sidi-dahi/DataBalancerWGAN?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/moulaye-sidi-dahi/AI_Project)
+![GitHub forks](https://img.shields.io/github/forks/moulaye-sidi-dahi/AI_Project)
 ![GitHub license](https://img.shields.io/badge/license-NY--License-blue)
 
 ## 📌 Overview
