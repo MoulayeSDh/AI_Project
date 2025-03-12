@@ -1,4 +1,4 @@
-# 🦾 Fine-Tuning DeepSeek-R1 with Unsloth & Hugging Face Dataset  
+# 🦾 Fine-Tuning DeepSeek-R1 with Unsloth & Hugging Face Dataset  🧠
 
 🚀 **Fine-tune DeepSeek-R1 with LoRA & Unsloth in a memory-efficient way.**  
 This repository provides a streamlined **fine-tuning pipeline** for **DeepSeek-R1**, leveraging **Unsloth** and datasets from **Hugging Face**.  
