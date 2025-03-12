@@ -1,4 +1,4 @@
-# 🏛️ HistoAgent V1: A Fine-Tuned RAG-based AI Assistant for History  
+# 🏛️ HistoAgent V1: A Fine-Tuned RAG-based AI Assistant for History 🧠
 
 🚀 **HistoAgent is an advanced Retrieval-Augmented Generation (RAG) AI assistant fine-tuned with QLoRA on historical datasets.**  
 It efficiently processes and understands historical texts, enabling interactive, context-aware discussions about history.  
