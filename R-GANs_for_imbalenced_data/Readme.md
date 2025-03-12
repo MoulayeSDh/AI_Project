@@ -67,10 +67,11 @@ balancer.evaluate_distribution(balanced_df, target_col="Target")
  ┣ 📜 generator_wgan.pth # Saved generator model (after training)(only if you use the model)
 ```
 
-## 📌 Future Improvements
+## 📌 Future Improvements (coming soon)
 - Adding **WGAN-GP with spectral normalization** for even better training stability.
 - Implementing **conditional GANs (cGANs)** for multi-class generation.
 - Supporting **image data augmentation** for computer vision tasks.
+  _**to keep informed, follow me on Linkedin**_
 
 ## 📜 License
 This project is licensed under **NY-License**. Any **use, modification, or fork must include the author's name (Moulaye Sidi Dahi)** in all distributions.
