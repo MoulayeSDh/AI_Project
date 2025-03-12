@@ -1,4 +1,4 @@
-# 🧠 Agentic OCR AI Detection
+# 🧠 Agentic OCR AI Detection 🧠
 
 🚀 **Agentic OCR AI Detection** is an open-source project designed to integrate advanced **Object Detection (YOLOv8)**, **Optical Character Recognition (OCR)**, **Reasoning (DeepSeek-7B)**, and **Task Orchestration (BabyAGI)** in a lightweight yet powerful AI pipeline.
 
