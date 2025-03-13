@@ -104,8 +104,8 @@ To ensure ethical AI usage, this project enforces:
 🔴 Violating these terms will result in a DMCA takedown request.
 
  _**HistoAgent Architecture**_
-![HistoAgent Architecture](./HistoAgent_architecture.webp)
-
+![HistoAgent Architecture
+(./HistoAgent_architecture.webp)
 
 📬 Contact
 
