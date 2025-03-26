@@ -30,7 +30,7 @@ HistoAgent integrates state-of-the-art AI techniques for historical research:
 ### 1️⃣ Install Dependencies  
 
 ```
-pip install torch transformers accelerate bitsandbytes peft datasets llama-index qdrant-client gc llama_index crawl4i
+pip install torch transformers accelerate bitsandbytes peft datasets llama-index qdrant-client gc  crawl4i
 ```
 2️⃣ Set Up Qdrant Server
 ```
